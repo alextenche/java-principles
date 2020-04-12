@@ -11,6 +11,8 @@
     <modules>
         <module>interfaces</module>
         <module>delegation</module>
+        <module>single-responsibility</module>
+        <module>open-closed</module>
     </modules>
 
 
