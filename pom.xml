@@ -13,6 +13,7 @@
         <module>delegation</module>
         <module>single-responsibility</module>
         <module>open-closed</module>
+        <module>liskov_substitution</module>
     </modules>
 
 
