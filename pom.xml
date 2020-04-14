@@ -14,8 +14,9 @@
         <module>single-responsibility</module>
         <module>open-closed</module>
         <module>liskov_substitution</module>
-        <module>interface-segregation</module>
+        <module>interface-segregation_1</module>
         <module>interface_segregation_2</module>
+        <module>dependency-inversion</module>
     </modules>
 
 
